@@ -1,7 +1,7 @@
 <H3>ENTER YOUR NAME: SAKTHIVEL M </H3>
 <H3>ENTER YOUR REGISTER NO: 212222240088 </H3>
 <H3>EX. NO.3</H3>
-<H3>DATE:</H3>
+<H3>DATE:13-09-2024 </H3>
 <H1 ALIGN =CENTER> Implementation of Approximate Inference in Bayesian Networks
 </H1>
 
